@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - For popup layout consistency, the image style width is set to 100px
-- Removed the need for calculation between the interval and duration, now the interval is called after the popup fades away instead of before the popup fades away
+- Removed the need for calculation between the interval and duration, the interval is called after the popup fades away instead of before the popup fades away
 - For promo code popup, show promo code instead of the merchant name
 
 ### Fixed
