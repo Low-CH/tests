@@ -5,12 +5,12 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - README.md for information, setups, and instructions
-- numberOfCards parameter into the popupInit function such that developers can change to display out the desired minimum number of cards. The default is 5
+- The popupInit function has numberOfCards parameter which developers can change to display out the desired minimum number of cards. The default is 5
 - Popup should not fade away/disappear if there is mouse over
 
 ### Changed
 - For popup layout consistency, the image style width is set to 100px
-- Remove the need for calculation between the interval and duration, the interval is now called after the popup fades away instead of before the popup fades away
+- Removed the need for calculation between the interval and duration,now the interval is called after the popup fades away instead of before the popup fades away
 - For promo code popup, show promo code instead of the merchant name
 
 ### Fixed
