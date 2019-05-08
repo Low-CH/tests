@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
 - Popup should not fade away/disappear if there is mouse over
 
 ### Changed
-- For consistency,image style width is set to 100px
+- For consistency, the image style width is set to 100px
 - Remove the need for calculation between the interval and duration, the interval is now called after the popup fades away instead of before the popup fades away
 - For promo code popup, show promo code instead of the merchant name
 
