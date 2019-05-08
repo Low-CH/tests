@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - README.md for information, setups, and instructions
-- The popupInit function has numberOfCards parameter which developers can change to display out the desired minimum number of cards. The default is 5
+- The popupInit function has numberOfCards parameter which developers can change to display out the desired minimum number of cards. The default for numberOfCards is 5
 - Popup should not fade away/disappear if there is mouse over
 
 ### Changed
